@@ -1,0 +1,10 @@
+main: ml.pkom.playerfarms.childserver.PlayerFarmsChild
+name: PlayerFarms
+description: "This plugin is PlayerFarms's child-server plugin."
+version: "1.0.0"
+author: "Pitan"
+commands:
+  realms:
+    description: ""
+    aliases: [farms, sa]
+    usage: "/realms"
